@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: #000;
+    padding: 50px 0;
+    border: 3px solid #f00;
+    
+}
+.main .container{
+    background-color: #272626;
+    color: #fff;
+    border: 3px solid #00f;
+    width: 90%;
+    margin: auto;
+    border-radius: 28px;
+}
+
+.main .container h1{
+    font-size: 70px;
+    text-align: center;
+}
+.main .last-name{
+    color: #f00;
+}
+
+.main .container .img-container{
+    border: 3px solid #f00;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.main .container .img-container .sl-img{
+    width: 250px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.main .img-desc{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main .container .biography{
+    font-size: 24px;
+}
