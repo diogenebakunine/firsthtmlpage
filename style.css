@@ -95,13 +95,13 @@
     background-color: #999;
 }
 
-.main .container footer a:active{
+/* .main .container footer a:active{
     color: blue;
 }
 
 .main .container footer a:visited{
-    color:chartreuse
-} 
+    color:chartreus
+}  */
 
 .biography, .comics, footer{
     width: 80%;
